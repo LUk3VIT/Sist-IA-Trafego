@@ -1,0 +1,25 @@
+path: dataset
+
+train: images/train
+val: images/val
+
+names:
+
+  0: stop
+  1: yield
+  2: no_entry
+
+  3: speed_limit_20
+  4: speed_limit_30
+  5: speed_limit_40
+  6: speed_limit_60
+  7: speed_limit_80
+  8: speed_limit_100
+
+  9: pedestrian_crossing
+  10: school_zone
+  11: railway_crossing
+  12: no_left_turn
+  13: no_right_turn
+  14: parking
+  15: no_parking
